@@ -1,0 +1,12 @@
+.DS_Store
+    bin
+    obj
+    *.db
+    *.sqlite3
+    .vscode
+.DS_Store
+    bin
+    obj
+    *.db
+    *.sqlite3
+    .vscode

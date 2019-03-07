@@ -1,0 +1,11 @@
+/Users/Blade/Desktop/backend-workspace/student-exercises/bin/Debug/netcoreapp2.2/student-exercises.deps.json
+/Users/Blade/Desktop/backend-workspace/student-exercises/bin/Debug/netcoreapp2.2/student-exercises.runtimeconfig.json
+/Users/Blade/Desktop/backend-workspace/student-exercises/bin/Debug/netcoreapp2.2/student-exercises.runtimeconfig.dev.json
+/Users/Blade/Desktop/backend-workspace/student-exercises/bin/Debug/netcoreapp2.2/student-exercises.dll
+/Users/Blade/Desktop/backend-workspace/student-exercises/bin/Debug/netcoreapp2.2/student-exercises.pdb
+/Users/Blade/Desktop/backend-workspace/student-exercises/obj/Debug/netcoreapp2.2/student-exercises.csprojAssemblyReference.cache
+/Users/Blade/Desktop/backend-workspace/student-exercises/obj/Debug/netcoreapp2.2/student-exercises.csproj.CoreCompileInputs.cache
+/Users/Blade/Desktop/backend-workspace/student-exercises/obj/Debug/netcoreapp2.2/student-exercises.AssemblyInfoInputs.cache
+/Users/Blade/Desktop/backend-workspace/student-exercises/obj/Debug/netcoreapp2.2/student-exercises.AssemblyInfo.cs
+/Users/Blade/Desktop/backend-workspace/student-exercises/obj/Debug/netcoreapp2.2/student-exercises.dll
+/Users/Blade/Desktop/backend-workspace/student-exercises/obj/Debug/netcoreapp2.2/student-exercises.pdb

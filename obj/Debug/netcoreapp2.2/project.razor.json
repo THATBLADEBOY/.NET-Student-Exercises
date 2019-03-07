@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/Blade/Desktop/backend-workspace/student-exercises/student-exercises.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
